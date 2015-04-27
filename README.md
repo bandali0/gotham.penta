@@ -10,6 +10,13 @@ Gotham is a **very dark** Pentadactyl colorscheme. It was built for vim
 ([link][vim-gotham] to vim colorscheme), but has been since ported to other
 platforms (see [gotham-contrib][gotham-contrib] repository).
 
+## Screenshots
+
+### Completions
+![Completions][shot-completions]
+
+### Help
+![Help][shot-help]
 
 ## License
 
@@ -17,7 +24,9 @@ platforms (see [gotham-contrib][gotham-contrib] repository).
 distributed under the same license, the [MIT license][license].
 
 
-[logo]: http://i.imgur.com/FDLEzHC.png "Logo"
+[logo]: https://i.imgur.com/FDLEzHC.png "Logo"
+[shot-completions]: https://i.imgur.com/6aQbOfi.png "Completions"
+[shot-help]: https://i.imgur.com/MLwkW3b.png "Help"
 [license]: LICENSE.txt
 
 [vim-gotham]: https://github.com/whatyouhide/vim-gotham
